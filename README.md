@@ -34,8 +34,6 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
     <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux">
     <img src="https://img.shields.io/badge/Raspberry%20PiOS-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry PiOS"><br>
-    <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=popos&logoColor=white" alt="Pop! OS">
-    <img src="https://img.shields.io/badge/Parrot%20OS-50C878?style=flat-square&logo=linux&logoColor=white" alt="Parrot OS">
     <img src="https://img.shields.io/badge/Pterodactyl-8F7B71?style=flat-square&logo=pterodactyl&logoColor=white" alt="Pterodactyl">
 </h4>
 
@@ -47,6 +45,6 @@
 
 <h1 align="center">My Stats</h1>
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skykiller099&theme=radical" alt="Stats">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skykiller099&layout=compact&langs_count=8&theme=radical" alt="Languages">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skykiller099&theme=tokyonight" alt="Stats">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skykiller099&layout=compact&langs_count=8&theme=tokyonight" alt="Languages">
 </p>
