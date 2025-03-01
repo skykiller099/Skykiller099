@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" src="https://github.com/Kurama250/Kurama250/blob/main/img/ori.jpg" alt="Banner">
+  <img width="1000" src="https://github.com/skykiller099/Skykiller099/blob/main/KawatakiBanner4.jpeg" alt="Banner">
 </p>
 
 <h1 align="center" style="color:#FF4444; font-size:3em; text-shadow: 2px 2px #000000;">Passionate & Innovative Developer</h1>
