@@ -56,7 +56,7 @@
       <sub>Innovative development platform</sub>
     </td>
     <td align="center">
-      <img width="100" src="https://img.shields.io/badge/🎮_Discord-KawatakiDevelopers-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Kawataki Developers"><br>
+      <img width="100" src="https://github.com/skykiller099/Skykiller099/blob/main/logoserv.jpeg" alt="Kawataki Developers"><br>
       <a href="https://discord.gg/uqXz3JbNzy" style="color:#FF4444; text-decoration:none; font-weight:bold;">Kawataki Developers</a><br>
       <sub>Dynamic Discord community</sub>
     </td>
