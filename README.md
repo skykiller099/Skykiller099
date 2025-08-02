@@ -2,7 +2,7 @@
   <img width="1000" src="https://github.com/skykiller099/Skykiller099/blob/main/KawatakiBanner4.jpeg" alt="Banner">
 </p>
 
-<h1 align="center" style="color:#FF4444; font-size:3em; text-shadow: 2px 2px #000000;">Passionate & Innovative Developer</h1>
+<h1 align="center" style="color:#FF4444; font-size:3em; text-shadow: 2px 2px #000000;">Passionate Developer</h1>
 
 <p align="center">
   <a href="https://altadev.fr"><img src="https://img.shields.io/badge/🌐_My_Website-altadev.fr-FF4444?style=for-the-badge" alt="My Website"></a>
@@ -46,23 +46,6 @@
   <img src="https://img.shields.io/badge/Pterodactyl-8F7B71?style=flat-square&logo=pterodactyl&logoColor=white" alt="Pterodactyl">
 </p>
 
-<h2 align="center" style="color:#FF4444;">🌟 Flagship Projects</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img width="100" src="https://github.com/skykiller099/Skykiller099/blob/main/logo.jpeg" alt="AltaDev"><br>
-      <a href="https://altadev.fr" style="color:#FF4444; text-decoration:none; font-weight:bold;">AltaDev</a><br>
-      <sub>Innovative development platform</sub>
-    </td>
-    <td align="center">
-      <img width="100" src="https://github.com/skykiller099/Skykiller099/blob/main/logoserv.jpeg" alt="Kawataki Developers"><br>
-      <a href="https://discord.gg/uqXz3JbNzy" style="color:#FF4444; text-decoration:none; font-weight:bold;">Kawataki Developers</a><br>
-      <sub>Dynamic Discord community</sub>
-    </td>
-  </tr>
-</table>
-
 <h2 align="center" style="color:#FF4444;">📊 GitHub Statistics</h2>
 
 <p align="center">
@@ -76,14 +59,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skykiller099&theme=tokyonight" alt="GitHub Contributions">
 </p>
 
-
-<h2 align="center" style="color:#FF4444;">📫 Contact Me</h2>
-
-<p align="center">
-  <a href="mailto:dev.skykiller099@gmail.com"><img src="https://img.shields.io/badge/Email-Me-FF4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=skykiller099&color=FF4444&style=flat-square&label=Profile+Views" alt="Profile views">
 </p>
@@ -93,4 +68,3 @@
 <p align="center">
   Feel free to explore my projects and contact me for any collaboration or questions.
 </p>
-
