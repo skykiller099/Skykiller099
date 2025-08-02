@@ -4,11 +4,6 @@
 
 <h1 align="center" style="color:#FF4444; font-size:3em; text-shadow: 2px 2px #000000;">Passionate Developer</h1>
 
-<p align="center">
-  <a href="https://altadev.fr"><img src="https://img.shields.io/badge/🌐_My_Website-altadev.fr-FF4444?style=for-the-badge" alt="My Website"></a>
-  <a href="https://discord.gg/uqXz3JbNzy"><img src="https://img.shields.io/badge/🎮_Discord-KawatakiDevelopers-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-</p>
-
 <h2 align="center" style="color:#FF4444;">🚀 Key Skills</h2>
 
 <p align="center">
