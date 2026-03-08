@@ -27,7 +27,7 @@
 │   stack     →   C · C++ · JavaScript · Python · SQL  │
 │   os        →   Linux & Windows                      │
 │   editor    →   VS Code · Sublime Text               │
-│   tier      →   ████████████  ELITE                  │
+│   tier      →   ████████████  Student                  │
 │   uptime    →   99.9%  ●  ALWAYS ONLINE              │
 │                                                      │
 │   "Write code that outlives you."                    │
@@ -149,7 +149,7 @@ Developer().loop()
 | ◈ | **Systems / Low-Level** | `C` · `C++` | `████████░░` Advanced |
 | ◈ | **Web Front-End** | `HTML` · `CSS` · `JS` | `█████████░` Expert |
 | ◈ | **Back-End** | `Node.js` · `Python` · `Express` | `████████░░` Advanced |
-| ◈ | **Database** | `SQL` · `MongoDB` · `phpMyAdmin` | `███████░░░` Proficient |
+| ◈ | **Database** | `SQL` · `MongoDB` · `phpMyAdmin` | `███████░░░` Advanced |
 | ◈ | **Infrastructure** | `Linux` · `Apache` · `Pterodactyl` | `████████░░` Advanced |
 | ◈ | **Automation & Bots** | `Discord.js` · `Electron` · `Axios` | `█████████░` Expert |
 
