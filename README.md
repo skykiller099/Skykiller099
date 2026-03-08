@@ -1,141 +1,99 @@
 <div align="center">
 
-<!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF4444&center=true&vCenter=true&width=940&lines=whoami+%3A+Passionate+Developer;Building+the+Future%2C+One+Commit+at+a+Time;%3E+sudo+rm+-rf+mediocrity;Full-Stack+%7C+Systems+%7C+Low-Level)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SKYKILLER099&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Code.%20Build.%20Dominate.&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SKYKILLER099&fontSize=90&color=0:0d0d0d,100:1a0000&fontColor=FF2222&strokeWidth=3&stroke=FF2222&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 </div>
 
----
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1500&color=FF2222&center=true&vCenter=true&width=700&height=50&lines=%5B+SYS+%5D+Passionate+Developer+%2F+System+Architect;%5B+CMD+%5D+sudo+make+world+--flag=better;%5B+INF+%5D+C+%7C+C%2B%2B+%7C+JS+%7C+Python+%7C+Node.js;%5B+RUN+%5D+Compiling+next+big+thing...+%E2%96%88)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+</div>
+
+<br/>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="top">
+
+### ◈ `IDENTITY_CARD.exe`
+
+```
+╭──────────────────────────────────────╮
+│                                      │
+│   ALIAS    →  Skykiller099           │
+│   CLASS    →  Full-Stack Developer   │
+│   TIER     →  ██████████  ELITE      │
+│   OS       →  Linux + Windows        │
+│   EDITOR   →  VS Code / Sublime      │
+│   STATUS   →  [●] ONLINE             │
+│                                      │
+│   "Build fast. Break nothing."       │
+│                                      │
+╰──────────────────────────────────────╯
+```
+
+<br/>
+
+### ◈ `CURRENT_PROCESS`
+
+```python
+while alive:
+    code()
+    learn()
+    ship()
+    if coffee == 0:
+        refill()
+```
+
+</td>
+<td width="45%" valign="top" align="right">
+
+<img src="https://github-readme-stats.vercel.app/api?username=skykiller099&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=FF2222&icon_color=FF2222&text_color=CCCCCC&ring_color=FF2222&border_radius=12" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=skykiller099&theme=black-ice&hide_border=true&background=0D0D0D&stroke=FF2222&ring=FF2222&fire=FF6666&currStreakLabel=FF2222&sideLabels=CCCCCC&dates=666666&border_radius=12" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║  > Initializing profile...                                    ║
-║  > Loading stack... ██████████████████████████████ 100%       ║
-║  > Status: Online & Building                                  ║
-╚═══════════════════════════════════════════════════════════════╝
+━━━━━━━━━━━━━━━━━━━━━━━━━━  [ TECH STACK ]  ━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </div>
 
 <br/>
 
-<!-- About section with terminal style -->
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=skykiller099&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4444&icon_color=FF4444&text_color=ffffff&ring_color=FF4444" />
-
-### `> ./about_me.sh`
-
-```bash
-$ cat developer.json
-{
-  "alias"    : "Skykiller099",
-  "role"     : "Full-Stack Developer",
-  "passion"  : "Building things that matter",
-  "level"    : "Elite",
-  "status"   : "Always shipping 🚀",
-  "coffee"   : true
-}
-```
-
-<br clear="right"/>
-
----
-
-## `> ls -la /skills`
-
-### 🔴 Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### ⚙️ Tools & Frameworks
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord.js-738ADB?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-</p>
-
-### 🖥️ Environments
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pterodactyl-8F7B71?style=for-the-badge&logo=pterodactyl&logoColor=white" />
-</p>
-
-### 🛠️ Dev Environment
-
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## `> git log --stat`
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skykiller099&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4444&text_color=ffffff" />
+### 🔴 LANGUAGES
 
-</div>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,html,css&theme=dark&perline=6" />
 
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=skykiller099&theme=black-ice&hide_border=true&stroke=FF4444&ring=FF4444&fire=FF4444&currStreakLabel=FF4444&background=0D1117&sideLabels=ffffff&dates=aaaaaa" />
-</div>
+<br/><br/>
 
-<br/>
+### ⚙️ TOOLS & FRAMEWORKS
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skykiller099&bg_color=0D1117&color=FF4444&line=FF4444&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,electron,mongodb,npm,github,vscode,sublime,discord&theme=dark&perline=8" />
 
----
+<br/><br/>
 
-## `> cat /proc/achievements`
+### 🖥️ ENVIRONMENTS
 
-<div align="center">
-
-| 🏆 Trophy | Description |
-|:---------:|:------------|
-| 🔴 **Low-Level Master** | C & C++ Systems Programming |
-| 🌐 **Full-Stack** | Front to Back, nothing is out of reach |
-| 🤖 **Bot Architect** | Discord bots & automation tools |
-| 🗄️ **Data Wrangler** | SQL, MongoDB, phpMyAdmin |
-| 🐧 **Linux Native** | Lives in the terminal |
-| ⚡ **Ship Fast** | Always building, never stopping |
-
-</div>
-
----
-
-## `> ping -c 1 skykiller099`
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/skykiller099?label=Followers&style=for-the-badge&logo=github&color=FF4444&labelColor=0D1117)](https://github.com/skykiller099)
-![Profile Views](https://komarev.com/ghpvc/?username=skykiller099&color=FF4444&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,raspberrypi,windows&theme=dark&perline=6" />
 
 </div>
 
@@ -144,13 +102,129 @@ $ cat developer.json
 <div align="center">
 
 ```
-> Feel free to explore my projects.
-> Open to collaborations & new challenges.
-> Always up for building something crazy.
+━━━━━━━━━━━━━━━━━━━━━━━━━━  [ STATISTICS ]  ━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
-
-**— Skykiller099 | `chmod +x ./life.sh && ./life.sh`**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skykiller099&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=FF2222&text_color=CCCCCC&border_radius=12" height="220"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-trophy.vercel.app/?username=skykiller099&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" height="220"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=skykiller099&bg_color=0D0D0D&color=FF2222&line=FF2222&point=FFFFFF&area_color=FF222220&area=true&hide_border=true&radius=8&custom_title=◈%20CONTRIBUTION%20MATRIX" width="98%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━  [ ARSENAL ]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">⚡ DOMAIN</th>
+      <th align="center">🔧 TECH</th>
+      <th align="center">📊 LEVEL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>Systems / Low-Level</b></td>
+      <td align="center"><code>C</code> &nbsp; <code>C++</code></td>
+      <td align="center"><code>████████░░</code> Advanced</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Web Front-End</b></td>
+      <td align="center"><code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JS</code></td>
+      <td align="center"><code>█████████░</code> Expert</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Back-End / API</b></td>
+      <td align="center"><code>Node.js</code> &nbsp; <code>Python</code></td>
+      <td align="center"><code>████████░░</code> Advanced</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Database</b></td>
+      <td align="center"><code>SQL</code> &nbsp; <code>MongoDB</code></td>
+      <td align="center"><code>███████░░░</code> Proficient</td>
+    </tr>
+    <tr>
+      <td align="center"><b>DevOps / Infra</b></td>
+      <td align="center"><code>Linux</code> &nbsp; <code>Apache</code> &nbsp; <code>Pterodactyl</code></td>
+      <td align="center"><code>████████░░</code> Advanced</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Automation / Bots</b></td>
+      <td align="center"><code>Discord.js</code> &nbsp; <code>Electron</code></td>
+      <td align="center"><code>█████████░</code> Expert</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━  [ CONNECT ]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-skykiller099-FF2222?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/skykiller099)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=skykiller099&color=FF2222&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D0D0D)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/skykiller099?label=FOLLOWERS&style=for-the-badge&logo=github&color=FF2222&labelColor=0D0D0D)](https://github.com/skykiller099?tab=followers)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    Open to collabs. Open to chaos. Let's build something.   ║
+║                                                              ║
+║    > skykiller099@github:~$ _                                ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:0D0D0D,100:1a0000&height=120&section=footer&animation=twinkling" width="100%"/>
+
+<div align="center">
+<sub>Crafted with 🔴 by <b>Skykiller099</b> — <code>fork it, star it, fear it.</code></sub>
+</div>
