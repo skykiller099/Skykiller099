@@ -1,5 +1,4 @@
 <!-- SKYKILLER099 — GitHub Profile README -->
-<!-- Upload banner.png to root of skykiller099/skykiller099 repo -->
 
 <div align="center">
 
@@ -63,14 +62,17 @@ Developer().loop()
 
 <div align="center">
 
-<!-- Streak — demolab (most reliable) -->
 [![Streak](https://streak-stats.demolab.com?user=skykiller099&hide_border=true&background=060810&ring=4D9EFF&fire=7ec8ff&currStreakLabel=4D9EFF&sideLabels=8ba3cc&dates=4a5568&theme=dark&date_format=j%20M%5B%20Y%5D)](https://github.com/skykiller099)
 
-<!-- Stats — githubstats.me (alternative to vercel) -->
-[![Stats](https://github-stats.as93.net/api?username=skykiller099&hide_border=true&bg_color=060810&title_color=4D9EFF&icon_color=4D9EFF&text_color=8ba3cc&show_icons=true&theme=tokyonight)](https://github.com/skykiller099)
+<br/>
 
-<!-- Top langs — same service -->
-[![Top Langs](https://github-stats.as93.net/api/top-langs/?username=skykiller099&layout=compact&hide_border=true&bg_color=060810&title_color=4D9EFF&text_color=8ba3cc&theme=tokyonight&langs_count=8)](https://github.com/skykiller099)
+![](https://img.shields.io/badge/Total%20Contributions-333-4D9EFF?style=flat-square&labelColor=060810)
+&nbsp;
+![](https://img.shields.io/badge/Public%20Repos-dynamic-4D9EFF?style=flat-square&labelColor=060810&logo=github)
+&nbsp;
+![](https://img.shields.io/github/stars/skykiller099?style=flat-square&label=Stars&color=4D9EFF&labelColor=060810&logo=github)
+&nbsp;
+![](https://img.shields.io/github/followers/skykiller099?style=flat-square&label=Followers&color=4D9EFF&labelColor=060810&logo=github)
 
 </div>
 
@@ -120,22 +122,7 @@ Developer().loop()
 
 <br/>
 
-## ` 04 ` &nbsp; ACTIVITY
-
-<div align="center">
-
-<!-- Activity graph — uses githubchart.com, very reliable -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skykiller099&bg_color=060810&color=4D9EFF&line=4D9EFF&point=ffffff&area_color=4D9EFF20&area=true&hide_border=true&radius=4)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## ` 05 ` &nbsp; CONTRIBUTION SNAKE
+## ` 04 ` &nbsp; CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -153,7 +140,7 @@ Developer().loop()
 
 <br/>
 
-## ` 06 ` &nbsp; SKILL MATRIX
+## ` 05 ` &nbsp; SKILL MATRIX
 
 <div align="center">
 
@@ -174,7 +161,7 @@ Developer().loop()
 
 <br/>
 
-## ` 07 ` &nbsp; CONNECT
+## ` 06 ` &nbsp; CONNECT
 
 <div align="center">
 
