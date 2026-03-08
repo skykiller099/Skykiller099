@@ -1,7 +1,5 @@
-<!-- ═══════════════════════════════════════════ -->
-<!--   SKYKILLER099 — GitHub Profile README    -->
-<!--   Upload banner.png alongside this file   -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- SKYKILLER099 — GitHub Profile README -->
+<!-- Upload banner.png to root of skykiller099/skykiller099 repo -->
 
 <div align="center">
 
@@ -65,11 +63,14 @@ Developer().loop()
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=skykiller099&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=060810&title_color=4D9EFF&icon_color=4D9EFF&text_color=8ba3cc)](https://github.com/skykiller099)
+<!-- Streak — demolab (most reliable) -->
+[![Streak](https://streak-stats.demolab.com?user=skykiller099&hide_border=true&background=060810&ring=4D9EFF&fire=7ec8ff&currStreakLabel=4D9EFF&sideLabels=8ba3cc&dates=4a5568&theme=dark&date_format=j%20M%5B%20Y%5D)](https://github.com/skykiller099)
 
-[![Streak](https://streak-stats.demolab.com?user=skykiller099&hide_border=true&background=060810&ring=4D9EFF&fire=7ec8ff&currStreakLabel=4D9EFF&sideLabels=8ba3cc&dates=4a5568&theme=dark)](https://github.com/skykiller099)
+<!-- Stats — githubstats.me (alternative to vercel) -->
+[![Stats](https://github-stats.as93.net/api?username=skykiller099&hide_border=true&bg_color=060810&title_color=4D9EFF&icon_color=4D9EFF&text_color=8ba3cc&show_icons=true&theme=tokyonight)](https://github.com/skykiller099)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skykiller099&layout=compact&hide_border=true&theme=tokyonight&bg_color=060810&title_color=4D9EFF&text_color=8ba3cc&langs_count=8)](https://github.com/skykiller099)
+<!-- Top langs — same service -->
+[![Top Langs](https://github-stats.as93.net/api/top-langs/?username=skykiller099&layout=compact&hide_border=true&bg_color=060810&title_color=4D9EFF&text_color=8ba3cc&theme=tokyonight&langs_count=8)](https://github.com/skykiller099)
 
 </div>
 
@@ -123,7 +124,8 @@ Developer().loop()
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skykiller099&bg_color=060810&color=4D9EFF&line=4D9EFF&point=ffffff&area_color=4D9EFF20&area=true&hide_border=true&radius=4)](https://github.com/skykiller099)
+<!-- Activity graph — uses githubchart.com, very reliable -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skykiller099&bg_color=060810&color=4D9EFF&line=4D9EFF&point=ffffff&area_color=4D9EFF20&area=true&hide_border=true&radius=4)
 
 </div>
 
@@ -151,21 +153,7 @@ Developer().loop()
 
 <br/>
 
-## ` 06 ` &nbsp; TROPHIES
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=skykiller099&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/skykiller099)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## ` 07 ` &nbsp; SKILL MATRIX
+## ` 06 ` &nbsp; SKILL MATRIX
 
 <div align="center">
 
@@ -186,7 +174,7 @@ Developer().loop()
 
 <br/>
 
-## ` 08 ` &nbsp; CONNECT
+## ` 07 ` &nbsp; CONNECT
 
 <div align="center">
 
@@ -212,50 +200,9 @@ Developer().loop()
 <br/>
 
 <sub>
-&nbsp;&nbsp;
 <code>◈ Skykiller099</code>
 &nbsp;·&nbsp;
 <code>fork · star · ship</code>
-&nbsp;&nbsp;
 </sub>
 
 </div>
-
-<br/><br/>
-
----
-
-<!--
-════════════════════════════════════════════
-  SETUP
-════════════════════════════════════════════
-
-1. Create PUBLIC repo named: skykiller099
-2. Upload at root: README.md + banner.png
-
-3. Snake — create .github/workflows/snake.yml:
-
-name: snake
-on:
-  schedule: [{cron: "0 */12 * * *"}]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-Then: Actions → Run workflow once.
-════════════════════════════════════════════
--->
