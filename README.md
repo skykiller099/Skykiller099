@@ -1,65 +1,85 @@
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║           SKYKILLER099 — GITHUB PROFILE README              ║ -->
+<!-- ║       Upload banner.png to your repo alongside this file    ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SKYKILLER099&fontSize=90&color=0:0d0d0d,100:1a0000&fontColor=FF2222&strokeWidth=3&stroke=FF2222&animation=fadeIn&fontAlignY=45" width="100%"/>
+<!-- ════════════════ CUSTOM BANNER ════════════════ -->
+<!-- Upload banner.png to this repo, then this will display it -->
+<img src="./banner.png" width="100%" alt="Skykiller099 Banner"/>
 
-</div>
+<!-- ════════════════ ANIMATED TYPING ════════════════ -->
+<br/>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1500&color=FF2222&center=true&vCenter=true&width=700&height=50&lines=%5B+SYS+%5D+Passionate+Developer+%2F+System+Architect;%5B+CMD+%5D+sudo+make+world+--flag=better;%5B+INF+%5D+C+%7C+C%2B%2B+%7C+JS+%7C+Python+%7C+Node.js;%5B+RUN+%5D+Compiling+next+big+thing...+%E2%96%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=18&duration=2500&pause=1200&color=FF2020&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=45&lines=%5B+INIT+%5D+Booting+developer+environment...;%5B+LOAD+%5D+C+%2F+C%2B%2B+%2F+JS+%2F+Python+%2F+Node.js+✓;%5B+BUILD+%5D+make+all+--jobs%3D∞;%5B+SHIP+%5D+git+push+origin+main+--force-with-lease;%5B+EXEC+%5D+./skykiller099+--mode%3Delite)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
-</div>
+<!-- ════════════════ RED DIVIDER ════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- ════════════════ BIO + STATS (2 col layout) ════════════════ -->
+<table width="100%" border="0">
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
-### ◈ `IDENTITY_CARD.exe`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=99999&pause=99999&color=FF2020&center=false&vCenter=false&width=440&height=22&lines=%5B+●+%5D+IDENTITY_CARD+—+LOADED" alt="section"/>
 
 ```
-╭──────────────────────────────────────╮
-│                                      │
-│   ALIAS    →  Skykiller099           │
-│   CLASS    →  Full-Stack Developer   │
-│   TIER     →  ██████████  ELITE      │
-│   OS       →  Linux + Windows        │
-│   EDITOR   →  VS Code / Sublime      │
-│   STATUS   →  [●] ONLINE             │
-│                                      │
-│   "Build fast. Break nothing."       │
-│                                      │
-╰──────────────────────────────────────╯
+┌─────────────────────────────────────────┐
+│                                         │
+│   ▸ ALIAS      Skykiller099             │
+│   ▸ ROLE       Full-Stack Developer     │
+│   ▸ FOCUS      Systems · Web · Bots     │
+│   ▸ LANGS      C  C++  JS  PY  SQL      │
+│   ▸ OS         Linux / Windows          │
+│   ▸ TIER       ▓▓▓▓▓▓▓▓▓▓  ELITE       │
+│   ▸ STATUS     ● ONLINE  /  BUILDING    │
+│                                         │
+│   "Write code that outlives you."       │
+│                                         │
+└─────────────────────────────────────────┘
 ```
 
 <br/>
 
-### ◈ `CURRENT_PROCESS`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=99999&pause=99999&color=FF2020&center=false&vCenter=false&width=440&height=22&lines=%5B+●+%5D+PROCESS_LOOP+—+RUNNING" alt="section"/>
 
 ```python
-while alive:
-    code()
-    learn()
-    ship()
-    if coffee == 0:
-        refill()
+# skykiller099.py
+class Developer:
+    def __init__(self):
+        self.name    = "Skykiller099"
+        self.stack   = ["C","C++","JS","Python","Node"]
+        self.coffee  = float("inf")
+        self.fear    = None
+
+    def run(self):
+        while True:
+            self.build()
+            self.learn()
+            self.ship()
+
+Developer().run()
 ```
 
 </td>
-<td width="45%" valign="top" align="right">
+<td width="48%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=skykiller099&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=FF2222&icon_color=FF2222&text_color=CCCCCC&ring_color=FF2222&border_radius=12" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=skykiller099&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=080808&title_color=FF2020&icon_color=FF2020&text_color=CCCCCC&ring_color=FF2020&border_radius=10" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=skykiller099&theme=black-ice&hide_border=true&background=0D0D0D&stroke=FF2222&ring=FF2222&fire=FF6666&currStreakLabel=FF2222&sideLabels=CCCCCC&dates=666666&border_radius=12" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=skykiller099&theme=black-ice&hide_border=true&background=080808&stroke=FF202050&ring=FF2020&fire=FF5050&currStreakLabel=FF2020&sideLabels=CCCCCC&dates=555555&border_radius=10" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skykiller099&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=080808&title_color=FF2020&text_color=CCCCCC&border_radius=10" width="100%"/>
 
 </td>
 </tr>
@@ -67,164 +87,233 @@ while alive:
 
 <br/>
 
-<div align="center">
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━  [ TECH STACK ]  ━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
+<!-- ════════════════ ANIMATED DIVIDER ════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
+<!-- ════════════════ TECH STACK ════════════════ -->
 <div align="center">
 
-### 🔴 LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=c,cpp,js,python,html,css&theme=dark&perline=6" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=16&duration=99999&pause=99999&color=FF2020&center=true&vCenter=true&width=400&height=30&lines=◈+TECH+STACK+%26+ARSENAL" alt="section title"/>
 
 <br/><br/>
 
-### ⚙️ TOOLS & FRAMEWORKS
-
-<img src="https://skillicons.dev/icons?i=nodejs,electron,mongodb,npm,github,vscode,sublime,discord&theme=dark&perline=8" />
+<!-- LANGUAGES -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=99999&pause=99999&color=666666&center=true&vCenter=true&width=300&height=18&lines=──────+LANGUAGES+──────" alt="lang"/>
 
 <br/><br/>
 
-### 🖥️ ENVIRONMENTS
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,html,css&theme=dark&perline=7"/>
 
-<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,raspberrypi,windows&theme=dark&perline=6" />
+<br/><br/>
+
+<!-- TOOLS -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=99999&pause=99999&color=666666&center=true&vCenter=true&width=300&height=18&lines=──────+TOOLS+%26+RUNTIME+──────" alt="tools"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,electron,discord,express,npm,axios&theme=dark&perline=6"/>
+
+<br/><br/>
+
+<!-- DATABASES -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=99999&pause=99999&color=666666&center=true&vCenter=true&width=300&height=18&lines=──────+DATABASES+──────" alt="db"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark&perline=3"/>
+
+<br/><br/>
+
+<!-- ENVIRONMENTS -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=99999&pause=99999&color=666666&center=true&vCenter=true&width=300&height=18&lines=──────+ENVIRONMENTS+──────" alt="envs"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,raspberrypi,windows&theme=dark&perline=6"/>
+
+<br/><br/>
+
+<!-- DEV TOOLS -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=99999&pause=99999&color=666666&center=true&vCenter=true&width=300&height=18&lines=──────+DEV+ENVIRONMENT+──────" alt="devenv"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=vscode,sublime,git,github,bash&theme=dark&perline=5"/>
+
+</div>
+
+<br/>
+
+<!-- ════════════════ ANIMATED DIVIDER ════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ════════════════ CONTRIBUTIONS + ACTIVITY ════════════════ -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=16&duration=99999&pause=99999&color=FF2020&center=true&vCenter=true&width=400&height=30&lines=◈+CONTRIBUTION+MATRIX" alt="section title"/>
+
+</div>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=skykiller099&bg_color=080808&color=FF2020&line=FF2020&point=FFFFFF&area_color=FF202015&area=true&hide_border=true&radius=6&custom_title=Activity%20Graph%20—%20skykiller099" width="100%"/>
+
+<br/>
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=16&duration=99999&pause=99999&color=FF2020&center=true&vCenter=true&width=400&height=30&lines=◈+CONTRIBUTION+SNAKE" alt="section title"/>
 
 </div>
 
 <br/>
 
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skykiller099/skykiller099/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skykiller099/skykiller099/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/skykiller099/skykiller099/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+</div>
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━  [ STATISTICS ]  ━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<br/>
+
+<!-- ════════════════ ANIMATED DIVIDER ════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ════════════════ TROPHIES ════════════════ -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=16&duration=99999&pause=99999&color=FF2020&center=true&vCenter=true&width=400&height=30&lines=◈+GITHUB+TROPHIES" alt="section title"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=skykiller099&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
 <br/>
 
+<!-- ════════════════ ANIMATED DIVIDER ════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ════════════════ SKILLS TABLE ════════════════ -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skykiller099&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=FF2222&text_color=CCCCCC&border_radius=12" height="220"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=skykiller099&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" height="220"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=16&duration=99999&pause=99999&color=FF2020&center=true&vCenter=true&width=400&height=30&lines=◈+SKILL+BREAKDOWN" alt="section title"/>
+
+<br/><br/>
+
+| DOMAIN | TECHNOLOGIES | MASTERY |
+|:------:|:------------:|:-------:|
+| **Low-Level / Systems** | `C` `C++` | `▓▓▓▓▓▓▓▓░░` Advanced |
+| **Web Front-End** | `HTML5` `CSS3` `JavaScript` | `▓▓▓▓▓▓▓▓▓░` Expert |
+| **Back-End / API** | `Node.js` `Python` `Express` | `▓▓▓▓▓▓▓▓░░` Advanced |
+| **Database** | `SQL` `MongoDB` `phpMyAdmin` | `▓▓▓▓▓▓▓░░░` Proficient |
+| **Infrastructure** | `Linux` `Apache` `Pterodactyl` | `▓▓▓▓▓▓▓▓░░` Advanced |
+| **Automation** | `Discord.js` `Electron` `Axios` | `▓▓▓▓▓▓▓▓▓░` Expert |
+| **Environments** | `Debian` `Ubuntu` `Kali` `RPi` | `▓▓▓▓▓▓▓▓░░` Advanced |
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=skykiller099&bg_color=0D0D0D&color=FF2222&line=FF2222&point=FFFFFF&area_color=FF222220&area=true&hide_border=true&radius=8&custom_title=◈%20CONTRIBUTION%20MATRIX" width="98%"/>
-
-</div>
+<!-- ════════════════ ANIMATED DIVIDER ════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
+<!-- ════════════════ CONNECT ════════════════ -->
 <div align="center">
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━  [ ARSENAL ]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=16&duration=99999&pause=99999&color=FF2020&center=true&vCenter=true&width=400&height=30&lines=◈+CONNECT" alt="section title"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th align="center">⚡ DOMAIN</th>
-      <th align="center">🔧 TECH</th>
-      <th align="center">📊 LEVEL</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><b>Systems / Low-Level</b></td>
-      <td align="center"><code>C</code> &nbsp; <code>C++</code></td>
-      <td align="center"><code>████████░░</code> Advanced</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Web Front-End</b></td>
-      <td align="center"><code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JS</code></td>
-      <td align="center"><code>█████████░</code> Expert</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Back-End / API</b></td>
-      <td align="center"><code>Node.js</code> &nbsp; <code>Python</code></td>
-      <td align="center"><code>████████░░</code> Advanced</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Database</b></td>
-      <td align="center"><code>SQL</code> &nbsp; <code>MongoDB</code></td>
-      <td align="center"><code>███████░░░</code> Proficient</td>
-    </tr>
-    <tr>
-      <td align="center"><b>DevOps / Infra</b></td>
-      <td align="center"><code>Linux</code> &nbsp; <code>Apache</code> &nbsp; <code>Pterodactyl</code></td>
-      <td align="center"><code>████████░░</code> Advanced</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Automation / Bots</b></td>
-      <td align="center"><code>Discord.js</code> &nbsp; <code>Electron</code></td>
-      <td align="center"><code>█████████░</code> Expert</td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━  [ CONNECT ]  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-skykiller099-FF2222?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/skykiller099)
+[![GitHub](https://img.shields.io/badge/GitHub-skykiller099-FF2020?style=for-the-badge&logo=github&logoColor=white&labelColor=080808)](https://github.com/skykiller099)
 &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=skykiller099&color=FF2222&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D0D0D)
+[![Profile Views](https://komarev.com/ghpvc/?username=skykiller099&color=FF2020&style=for-the-badge&label=VIEWS&labelColor=080808)](https://github.com/skykiller099)
 &nbsp;
-[![Followers](https://img.shields.io/github/followers/skykiller099?label=FOLLOWERS&style=for-the-badge&logo=github&color=FF2222&labelColor=0D0D0D)](https://github.com/skykiller099?tab=followers)
+[![Followers](https://img.shields.io/github/followers/skykiller099?label=FOLLOWERS&style=for-the-badge&logo=github&color=FF2020&labelColor=080808)](https://github.com/skykiller099?tab=followers)
 
-</div>
+<br/><br/>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   Open to collabs · Open to chaos · Let's ship something real   ║
+║                                                                  ║
+║   skykiller099@github:~$ git commit -m "change the world"       ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
-<div align="center">
+<!-- WAVE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,40:1a0000,100:080808&height=110&section=footer&animation=twinkling" width="100%"/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    Open to collabs. Open to chaos. Let's build something.   ║
-║                                                              ║
-║    > skykiller099@github:~$ _                                ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<sub>
+  <code>Crafted with 🔴 by <b>Skykiller099</b></code>
+  &nbsp;·&nbsp;
+  <code>fork it · star it · fear it</code>
+</sub>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:0D0D0D,100:1a0000&height=120&section=footer&animation=twinkling" width="100%"/>
+<!--
+════════════════════════════════════════════════
+  SETUP INSTRUCTIONS
+════════════════════════════════════════════════
 
-<div align="center">
-<sub>Crafted with 🔴 by <b>Skykiller099</b> — <code>fork it, star it, fear it.</code></sub>
-</div>
+1. Create a repo named exactly: skykiller099
+   (same as your GitHub username)
+
+2. Upload both files:
+   - README.md  (this file)
+   - banner.png (the custom banner image)
+
+3. For the SNAKE animation, add this GitHub Action:
+   Create file: .github/workflows/snake.yml
+
+   ─────────────────────────────────────────────
+   name: Generate Snake Animation
+
+   on:
+     schedule:
+       - cron: "0 */12 * * *"
+     workflow_dispatch:
+
+   jobs:
+     generate:
+       runs-on: ubuntu-latest
+       steps:
+         - uses: Platane/snk@v3
+           with:
+             github_user_token: ${{ secrets.GITHUB_TOKEN }}
+             outputs: |
+               dist/github-contribution-grid-snake.svg
+               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+         - uses: crazy-max/ghaction-github-pages@v3
+           with:
+             target_branch: output
+             build_dir: dist
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+   ─────────────────────────────────────────────
+
+4. That's it. Your profile is divine. 🔴
+
+════════════════════════════════════════════════
+-->
